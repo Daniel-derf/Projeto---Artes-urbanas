@@ -77,3 +77,24 @@ a, i { /* CONFIGURAÇÃO DAS ÂNCORAS E DOS ÍCONES */
     color: #c1b696;
 
 }
+
+/* MAIN IMAGE */
+
+.main-image {
+    height: 400px;
+    background-image: url('../img/g_1.jpg') ;
+
+    margin-bottom: 30px;
+
+    position: relative; /* relative necessário para fazer com
+    que o banner sirva como parâmetro ao absolute das informações
+    dentro dele */
+}
+ 
+.main-image-info {
+    background-color: white;
+    padding: 25px;
+    position: absolute;
+    left: 25px;
+    bottom: 25px;
+}
