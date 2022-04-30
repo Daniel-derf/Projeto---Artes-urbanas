@@ -1,11 +1,15 @@
 /* ESTILOS GERAIS */
 
 * {
-    color: #25282E;
+    color: #25282E; /* definição dessa cor como a padrão em geral para os elementos do site */
 }
 
-a, i {
-    transition: .5s;
+a, i { /* CONFIGURAÇÃO DAS ÂNCORAS E DOS ÍCONES */
+    
+    transition: .5s; 
+    /* TERÃO ELES UMA TRANSIÇÃO DE CINCO SEGUNDOS (PARA A MUDANÇA 
+    EFETUADA COM O HOVER, DEFINIDA NÃO AQUI MAS SIM POSTERIORMENTE) */
+    
     text-decoration: none;
 }
 
