@@ -125,13 +125,12 @@ a, i { /* CONFIGURAÇÃO DAS ÂNCORAS E DOS ÍCONES */
 #gallery-container h1,
 #gallery-container .col-md-6,
 #gallery-container .col-12 {
-    margin-bottom: 50px;
-
+    margin-bottom: 50px; /* Dando um espaçamento abaixo de todos os posts */
 }
 
 .small-image-container {
     height: 250px;
-    margin-bottom: 20px;
+    margin-bottom: 20px; /* Espaçamento DA IMAGEM para o conteúdo dela */
 }
 
 
