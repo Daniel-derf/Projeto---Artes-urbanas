@@ -98,3 +98,42 @@ a, i { /* CONFIGURAÇÃO DAS ÂNCORAS E DOS ÍCONES */
     left: 25px;
     bottom: 25px;
 }
+
+/* GALLERY */
+
+#img2 {
+    background-image: url(../img/g_2.jpg); /* Os dois pontos no início VOLTAM uma pasta*/
+}
+
+#img3 {
+    background-image: url(../img/g_3.jpg); /* Os dois pontos no início VOLTAM uma pasta*/
+}
+#img4 {
+    background-image: url(../img/g_4.jpg); /* Os dois pontos no início VOLTAM uma pasta*/
+}
+#img5 {
+    background-image: url(../img/g_5.jpg); /* Os dois pontos no início VOLTAM uma pasta*/
+}
+#img6 {
+    background-image: url(../img/g_6.jpg); /* Os dois pontos no início VOLTAM uma pasta*/
+}
+
+#gallery-container h1 {
+    text-align: center;
+}
+
+#gallery-container h1,
+#gallery-container .col-md-6,
+#gallery-container .col-12 {
+    margin-bottom: 50px;
+
+}
+
+.small-image-container {
+    height: 250px;
+    margin-bottom: 20px;
+}
+
+
+
+
